@@ -50,9 +50,9 @@
     "supertest": "0.13.x"
   },
   "dependencies": {
-    "underscore": "1.x",
-    "backbone": "1.x",
-    "backbone-orm": "0.7.x",
-    "knex": "0.6.x"
+    "underscore": ">=1.8.3",
+    "backbone": "^1.4.x",
+    "backbone-orm": "^0.7.14",
+    "knex": "^0.16.x"
   }
 }
